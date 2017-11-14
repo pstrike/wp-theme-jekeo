@@ -1,0 +1,17 @@
+.customize-control-widget_form div[id*='blahlab-widget'] .form .widget-anchor-id {
+  display: none;
+}
+
+[id^="customize-control-widget_blahlab-widget-10-images-grid"] span.remove {
+  display: none;
+}
+
+/* temporarily settings */
+/* metabox */
+.options.hide {
+  /*display: block;*/
+}
+
+.widget-content .hide {
+  /*display: block;*/
+}

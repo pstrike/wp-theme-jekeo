@@ -1,0 +1,199 @@
+.top-bar .name h1 a {
+  color: #000;
+}
+
+.customize-control-widget_form div[id*='blahlab-widget'] .form .widget-anchor-id {
+  display: none;
+}
+
+.studio-intro .section-title h2::after, h2.dot::after {
+  content: ".";
+  color: #ccc;
+  font-size: 50px;
+}
+
+.section-title h2::after {
+  content: ".";
+  color: #ccc;
+  font-size: 50px;
+}
+
+.full.works-bg, .full.about-bg, .full.intro-bg   {
+  background-image: none;
+}
+
+.shapes-overlap li {
+  opacity: 1;
+}
+
+.overlap-1, .overlap-2, .overlap-3 {
+  opacity: 1;
+}
+
+.overlap-1, .overlap-2, .overlap-3 {
+  background-image: none;
+  transform: none;
+}
+
+.overlap {
+  transition-duration: 2s;
+  transition-property: none;
+}
+
+.overlap-1 {
+  /* make preview the same as frontend "remove_frameless_preview_messenger_channel" and do_action( 'customize_preview_init', $this ); */
+  transition-property: transform;
+}
+
+.overlap.on {
+  opacity: 1;
+}
+
+ul.images-grid {
+  list-style: none;
+  margin: 0;
+}
+
+ul.images-grid li.grid-sizer {
+  width: 0.1%;
+}
+
+ul.images-grid li img {
+  width: 100%;
+}
+
+ul.images-grid li.half {
+  width: 50%;
+}
+
+ul.images-grid li.one-fourth {
+  width: 25%;
+}
+
+ul.images-grid li.one-sixth {
+  width: 16.6%;
+}
+
+label.error {
+  display: none !important;
+}
+
+#contact_form input.error, #contact_form textarea.error {
+  border: 2px solid red;
+}
+
+input.error, textarea.error, select.error {
+  margin-bottom: 1.875rem;
+}
+
+.full.quote-bg {
+  background-image: url("../images/quote.png");
+}
+
+.full.blog-bg {
+  background-image: url("../images/dots-grey.png");
+  background-position: 70% 300px;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.post.featured {
+  min-height: 360px;
+}
+
+.post.featured img {
+  width: 100%;
+}
+
+h3#reply-title {
+  margin-bottom: 0;
+}
+
+.single-post ul.comments {
+  padding-left: 0;
+}
+
+.single-post ul.comments p {
+  margin-bottom: 1.25rem;
+}
+
+.normal_posts .post > img {
+  max-height: 260px;
+}
+
+body.admin-bar header.on {
+  margin-top: 32px;
+}
+
+/* for WordPress admin bar */
+@media screen and (max-width: 782px) {
+  body.admin-bar {
+    position: static;
+  }
+
+  body.admin-bar header.on {
+    margin-top: 46px;
+  }
+}
+
+.menu-note {
+  color: #fff;
+}
+
+/* for readibility */
+.post a.button.red, .recent-post a.button.red {
+  color: #cc5200;
+  border-color: #cc5200;
+  margin-left: 2px;
+}
+
+p.read-more {
+  position: absolute;
+  bottom: 40px;
+}
+
+.post .post-content {
+  min-height: 400px;
+}
+
+
+body.home.blog p.read-more {
+  position: absolute;
+  bottom: 0px;
+}
+
+body.home.blog .post .post-content {
+  min-height: 320px;
+}
+
+.full.less-padding {
+  padding: 50px 0;
+}
+
+.previous.button {
+  margin-bottom: 0;
+}
+
+.full.whole-post {
+  padding-bottom: 50px;
+}
+
+.post:hover .post-content, .recent-post:hover .post-content {
+  background: #222 !important;
+}
+
+.post:hover .post-content h3 a {
+  color: #fff;
+}
+
+.row.normal_posts .columns:nth-child(2n) .post .post-content, .latest-posts .columns:nth-child(2n) .post-content  {
+  background: #eee;
+}
+
+.single-post .tags {
+  padding-top: 15px;
+}
+
+.post.is-sticky {
+  border: 3px solid #000;
+}

@@ -1,0 +1,573 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: http://wppolyglots.wordpress.com\n"
+"POT-Creation-Date: 2017-09-10 04:38:11+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Andy Lu <honryou@gmail.com>\n"
+
+#: 404.php:8
+msgid "404 error:"
+msgstr ""
+
+#: 404.php:10
+msgid "page not found"
+msgstr ""
+
+#: 404.php:19
+msgid "Sorry, we don't know what you are looking for."
+msgstr ""
+
+#: 404.php:22
+msgid "Go back home"
+msgstr ""
+
+#: blog.php:97 index.php:81 index.php:124 index.php:169 page.php:23
+#: single.php:21 widgets/blog-posts/partials/post.php:38
+#: widgets/blog-posts/partials/posts.php:22 widgets/blog-posts/view.php:35
+#: widgets/blog-posts/view.php:84 widgets/latest-posts/view.php:63
+msgid "Leave a comment"
+msgstr ""
+
+#: blog.php:97 index.php:81 index.php:124 index.php:169 page.php:23
+#: single.php:21 widgets/blog-posts/partials/post.php:38
+#: widgets/blog-posts/partials/posts.php:22 widgets/blog-posts/view.php:35
+#: widgets/blog-posts/view.php:84 widgets/latest-posts/view.php:63
+msgid "1 Comment"
+msgstr ""
+
+#: blog.php:97 index.php:81
+msgid "% Comments"
+msgstr ""
+
+#: blog.php:118 index.php:201
+msgid "Newer Entries "
+msgstr ""
+
+#: blog.php:118 index.php:201
+msgid " Older Entries"
+msgstr ""
+
+#: comment.php:9
+msgid "Pingback:"
+msgstr ""
+
+#: comment.php:11
+msgid "Edit"
+msgstr ""
+
+#: comment.php:27
+msgid "Reply"
+msgstr ""
+
+#: comment.php:33
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:5 single.php:86
+msgid "Comments"
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:20
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:35
+msgid "Blahlab Framework"
+msgstr ""
+
+#: functions.php:192
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:196
+msgctxt "Open Sans font: on or off"
+msgid "off"
+msgstr ""
+
+#: functions.php:200
+msgctxt "Poppinns font: on or off"
+msgid "off"
+msgstr ""
+
+#: functions.php:204
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:208
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:241
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:250
+msgid "Footer"
+msgstr ""
+
+#: functions.php:259
+msgid "Index"
+msgstr ""
+
+#: functions.php:269
+msgid "Portfolio Item Sidebar"
+msgstr ""
+
+#: functions.php:337
+msgid "<span class=\"fa fa-lock\"></span> %s"
+msgstr ""
+
+#: header.php:96
+msgid "Please set your menu in the admin area"
+msgstr ""
+
+#: index.php:8
+msgid "Daily archives:"
+msgstr ""
+
+#: index.php:14
+msgid "Monthly archives:"
+msgstr ""
+
+#: index.php:16
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: index.php:20
+msgid "Yearly archives:"
+msgstr ""
+
+#: index.php:22
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: index.php:26
+msgid "Tag:"
+msgstr ""
+
+#: index.php:32
+msgid "Category:"
+msgstr ""
+
+#: index.php:38
+msgid "Search results:"
+msgstr ""
+
+#: index.php:44
+msgid "Blog Archives"
+msgstr ""
+
+#: index.php:87
+msgid "Read more"
+msgstr ""
+
+#: index.php:124 index.php:169 page.php:23 single.php:21
+#: widgets/blog-posts/partials/post.php:38
+#: widgets/blog-posts/partials/posts.php:22 widgets/blog-posts/view.php:35
+#: widgets/blog-posts/view.php:84 widgets/latest-posts/view.php:63
+msgid "Comments %"
+msgstr ""
+
+#: index.php:217
+msgid "Nothing found."
+msgstr ""
+
+#: index.php:218
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#: index.php:219
+msgid "Go to "
+msgstr ""
+
+#: index.php:219
+msgid "home page"
+msgstr ""
+
+#: page.php:13
+msgid "by"
+msgstr ""
+
+#: page.php:57
+msgid "Your comment"
+msgstr ""
+
+#: page.php:68 single.php:120
+msgid "Post Comment"
+msgstr ""
+
+#: plugins/blahlab-framework/blahlab-framework.php:60
+msgid " Body"
+msgstr ""
+
+#: plugins/blahlab-framework/blahlab-framework.php:108
+msgid "Page Builder"
+msgstr ""
+
+#: plugins/blahlab-framework/blahlab-framework.php:109
+msgid "Use this area to add widgets to your page, use the widgets for the Body section."
+msgstr ""
+
+#: plugins/blahlab-framework/blahlab-framework.php:118
+msgid "Theme Options"
+msgstr ""
+
+#: plugins/blahlab-framework/blahlab-framework.php:367
+msgid "Saving..."
+msgstr ""
+
+#: plugins/blahlab-framework/blahlab-framework.php:368
+msgid "Done!"
+msgstr ""
+
+#: plugins/blahlab-framework/blahlab-framework.php:407
+msgid "Click the Start link below to set this page up."
+msgstr ""
+
+#: plugins/blahlab-framework/blahlab-framework.php:407
+msgid "You can drag and drop widgets, edit content and tweak the design. Click the link below to see your page come to life."
+msgstr ""
+
+#: plugins/blahlab-framework/blahlab-framework.php:411
+msgid "Start"
+msgstr ""
+
+#: plugins/blahlab-framework/blahlab-framework.php:411
+msgid "Edit Your Page"
+msgstr ""
+
+#: plugins/blahlab-framework/classes/blahlab_wp_customize_theme_options_control.php:12
+msgid "One click setup"
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:83
+#: plugins/blahlab-framework/post_types.php:138
+msgid "Add new %s"
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:84
+#: plugins/blahlab-framework/post_types.php:136
+msgid "Edit %s"
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:85
+msgid "New %s"
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:86
+msgid "View %s"
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:87
+#: plugins/blahlab-framework/post_types.php:132
+msgid "Search %s"
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:88
+msgid "No %s found."
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:89
+msgid "No %s found in Trash"
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:133
+msgid "All %s"
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:134
+msgid "Parent %s"
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:135
+msgid "Parent %s:"
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:137
+msgid "Update %s"
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:139
+msgid "New %n Name"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/parsers.php:42
+#: plugins/blahlab-framework/vendor/wordpress-importer/parsers.php:72
+#: plugins/blahlab-framework/vendor/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/parsers.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/parsers.php:84
+#: plugins/blahlab-framework/vendor/wordpress-importer/parsers.php:89
+#: plugins/blahlab-framework/vendor/wordpress-importer/parsers.php:279
+#: plugins/blahlab-framework/vendor/wordpress-importer/parsers.php:468
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:134
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:143
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:194
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:198
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:199
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:215
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:240
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:267
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:269
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:374
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:425
+msgid "Failed to import category %s"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:465
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:511
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:652
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:537
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:559
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:618
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:790
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:854
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:867
+msgid "Invalid file type"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:912
+msgid "Remote server did not respond"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:918
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:925
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:930
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:936
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:1034
+msgid "Import WordPress"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:1041
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:1056
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:1057
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:1131
+msgid "Import <strong>posts, pages, comments, custom fields, categories, and tags</strong> from a WordPress export file."
+msgstr ""
+
+#: plugins/blahlab-framework/widgets/base.php:16
+#: widgets/sidebar-archives.disabled/widget.php:19
+#: widgets/sidebar-categories.disabled/widget.php:19
+#: widgets/sidebar-tags.disabled/widget.php:19
+msgid "This widget is used to display your "
+msgstr ""
+
+#: scripts/wordpress-i18n/pomo/sample/app.php:56
+msgid "Welcome %s!"
+msgstr ""
+
+#: scripts/wordpress-i18n/pomo/sample/app.php:60
+msgid "A string with low priority!"
+msgstr ""
+
+#: scripts/wordpress-i18n/pomo/sample/app.php:62
+msgid "Bye\n"
+msgstr ""
+
+#: single.php:36
+msgid "Pages:"
+msgstr ""
+
+#: widgets/sidebar-archives.disabled/widget.php:33
+#: widgets/sidebar-categories.disabled/widget.php:118
+#: widgets/sidebar-tags.disabled/widget.php:88
+msgid "Title:"
+msgstr ""
+
+#: widgets/sidebar-archives.disabled/widget.php:36
+#: widgets/sidebar-categories.disabled/widget.php:122
+msgid "Display as dropdown"
+msgstr ""
+
+#: widgets/sidebar-archives.disabled/widget.php:39
+#: widgets/sidebar-categories.disabled/widget.php:125
+msgid "Show post counts"
+msgstr ""
+
+#: widgets/sidebar-archives.disabled/widget.php:50
+msgid "Archives"
+msgstr ""
+
+#: widgets/sidebar-archives.disabled/widget.php:80
+msgid "Select Year"
+msgstr ""
+
+#: widgets/sidebar-archives.disabled/widget.php:83
+msgid "Select Month"
+msgstr ""
+
+#: widgets/sidebar-archives.disabled/widget.php:86
+msgid "Select Day"
+msgstr ""
+
+#: widgets/sidebar-archives.disabled/widget.php:89
+msgid "Select Week"
+msgstr ""
+
+#: widgets/sidebar-archives.disabled/widget.php:92
+msgid "Select Post"
+msgstr ""
+
+#: widgets/sidebar-categories.disabled/widget.php:31
+msgid "Categories"
+msgstr ""
+
+#: widgets/sidebar-categories.disabled/widget.php:54
+msgid "Select Category"
+msgstr ""
+
+#: widgets/sidebar-categories.disabled/widget.php:128
+msgid "Show hierarchy"
+msgstr ""
+
+#: widgets/sidebar-tags.disabled/widget.php:33
+msgid "Tags"
+msgstr ""
+
+#: widgets/sidebar-tags.disabled/widget.php:90
+msgid "Taxonomy:"
+msgstr ""
